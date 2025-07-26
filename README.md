@@ -6,6 +6,8 @@ A Flutter-based AI-powered healthcare app focused on real-time health monitoring
 ![emergency page](https://github.com/user-attachments/assets/dadc21c8-8ec2-4273-b5c8-d6d8d0d14941)
 ![heat rate](https://github.com/user-attachments/assets/e5d0c9cd-2bd7-4871-ae92-480941caaa86)
 
+### App link --- https://smart-health-mvdfra7mo-gayathris-projects-ef68fb85.vercel.app
+>  **Note for Android users**: If you encounter installation issues, try temporarily adjusting your Play Protect settings. This may be needed due to the app being distributed outside of the Play Store during development
 ---
 
 ## Features
