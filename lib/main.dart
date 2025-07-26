@@ -5,6 +5,8 @@ import 'package:heart_flutter/welcome_page.dart';
 import 'package:heart_flutter/personal_details_page.dart';
 import 'package:heart_flutter/home_page.dart' as home;
 import 'package:heart_flutter/quick_access_page.dart';
+import 'package:heart_flutter/pages/emer_page.dart';
+import 'package:heart_flutter/services/emer_ser.dart';
 import 'package:heart_flutter/ac_remote_page.dart';
 import 'package:heart_flutter/tv_remote_page.dart';
 import 'package:heart_flutter/medication_page.dart';
@@ -50,6 +52,7 @@ class SmartQuickAccessApp extends StatelessWidget {
         '/welcome': (context) => const WelcomePage(),
         '/personal_details': (context) => const PersonalDetailsPage(),
         '/home': (context) => const home.HomePage(),
+        '/emergency': (context) => const EmergencyPage(),
         '/heart': (context) => const  HeartRateScreen(),
         '/quick_access': (context) => const QuickAccessPage(),
         '/ac_remote': (context) => const ACRemotePage(),

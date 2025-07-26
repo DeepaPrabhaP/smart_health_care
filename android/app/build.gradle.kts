@@ -7,6 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.heart_flutter"
+
     compileSdk = 36
     ndkVersion = "27.0.12077973"
 

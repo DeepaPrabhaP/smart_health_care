@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heart_flutter/emergency_page.dart';
+import 'package:heart_flutter/pages/emer_page.dart';
 import 'package:heart_flutter/medication_page.dart';
 import 'package:heart_flutter/heart_rate_page.dart';
 import 'package:heart_flutter/sugar_page.dart';
